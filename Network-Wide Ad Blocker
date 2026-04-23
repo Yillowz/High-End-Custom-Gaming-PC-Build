@@ -1,0 +1,26 @@
+Overview
+
+Built a network-wide ad blocking and DNS filtering solution to improve browsing experience, reduce unwanted traffic, and gain hands-on experience with lightweight self-hosted services.
+
+Components
+
+Host Device | Raspberry Pi
+Software | AdGuard Home
+Storage | MicroSD Card
+Networking | Static IP Configuration
+Access Method | Web Management Interface
+Role | Network DNS Filter
+
+Process
+
+Prepared the Raspberry Pi by flashing the operating system to a microSD card using an SD card reader. Installed and configured AdGuard Home as the primary DNS filtering service. Assigned a static IP address to ensure consistent network access. Updated router DNS settings so all devices on the network would use the new filtering server. Tested connectivity, DNS resolution, and ad blocking functionality across multiple devices.
+
+Skills Learned
+Raspberry Pi setup and deployment
+OS flashing and provisioning
+DNS fundamentals
+Static IP configuration
+Self-hosted service deployment
+Router DNS configuration
+Network testing and troubleshooting
+Lightweight infrastructure management
