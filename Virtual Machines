@@ -1,0 +1,27 @@
+Overview
+
+Built a virtualization lab environment to safely test multiple operating systems, learn system administration basics, and practice using isolated environments without affecting the main computer.
+
+Components
+
+Virtualization Software | VirtualBox
+Host System            | Personal Desktop PC
+Guest OS 1             | Kali Linux
+Guest OS 2             | Windows 11
+Resources              | Virtual CPU, RAM, Storage
+Networking             | Virtual Network Adapters
+
+Process
+
+Installed VirtualBox on the host system and created multiple virtual machines for different use cases. Allocated CPU cores, memory, and storage based on each operating system’s needs. Installed Kali Linux and Windows 11 as guest systems. Configured virtual networking and basic settings for usability. Used the virtual machines for learning, testing software, and practicing OS installation without risking the host machine.
+
+Skills Learned
+
+* Virtualization fundamentals
+* VM creation and management
+* Operating system installation
+* Resource allocation planning
+* Virtual networking basics
+* Safe testing environments
+* Multi-OS administration
+* Snapshot/recovery awareness
