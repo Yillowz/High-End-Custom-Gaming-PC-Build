@@ -1,1 +1,31 @@
+Overview
 
+Upgraded a friend’s existing PC with a focus on improving gaming performance, 
+maintaining compatibility, and reducing total upgrade cost by reusing reliable existing hardware where possible.
+
+Component Upgrades
+
+Processor       Intel CPU | AMD CPU
+Motherboard     AM4 Intel | AM4 AMD
+Memory          Existing 64GB DDR4
+Graphics Card   RTX 3060  | Radeon RX 9070 XT
+Power Supply    600W PSU  | 850W PSU
+Storage         Existing Storage Reused
+Case            Existing Case Reused
+
+Process
+
+Evaluated the current system hardware, performance limitations, and budget goals. 
+Planned an upgrade path that retained the AM4 motherboard and existing 64GB DDR4 memory to avoid unnecessary replacement costs. 
+Installed the new CPU, graphics card, and upgraded power supply. 
+Verified hardware compatibility, updated drivers, and tested system stability after installation.
+
+Skills Learned
+Cost-effective upgrade planning
+Hardware compatibility analysis
+Platform lifecycle management
+Power supply sizing
+Component installation
+Driver updates and maintenance
+Performance optimization
+System stability testing
