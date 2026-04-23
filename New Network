@@ -1,8 +1,10 @@
 Overview
 
-Built a custom home network infrastructure focused on performance, security, reliability, and long-term expandability by replacing consumer ISP equipment with self-managed networking hardware.
+Built a custom home network infrastructure focused on performance, security, reliability,
+and long-term expandability by replacing consumer ISP equipment with self-managed networking hardware.
 
 Components
+
 Router         | Custom PC-Based Router
 Firewall OS    | OPNsense
 Switch         | Managed Smart Switch
@@ -12,7 +14,13 @@ Segmentation   | 2 VLANs Configured
 ISP Equipment  | Bridged Modem/Gateway
 
 Process
-Built and installed a dedicated router using repurposed PC hardware. Installed and configured OPNsense as the primary firewall and routing platform. Converted ISP equipment to bridge mode and migrated the home network to the new router. Installed a managed switch and mesh Wi-Fi access point for wired and wireless coverage. Created two VLANs for network segmentation and improved traffic separation. Tested connectivity, wireless performance, and device access across the network.
+
+Built and installed a dedicated router using repurposed PC hardware.
+Installed and configured OPNsense as the primary firewall and routing platform.
+Converted ISP equipment to bridge mode and migrated the home network to the new router.
+Installed a managed switch and mesh Wi-Fi access point for wired and wireless coverage.
+Created two VLANs for network segmentation and improved traffic separation.
+Tested connectivity, wireless performance, and device access across the network.
 
 Skills Learned
 
