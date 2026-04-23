@@ -1,0 +1,26 @@
+## Overview
+
+Diagnosed and resolved a persistent online connectivity issue affecting access to public gaming servers by systematically isolating network layers and identifying ISP-level configuration as the root cause.
+
+## Components
+
+Target Service    | Online Game Servers (Rust)
+Network Layer     | Home Network + ISP Routing
+Issue Type        | Inbound/Outbound Connectivity Failure
+Root Cause        | CGNAT (Carrier-Grade NAT)
+Resolution        | Static Public IP Assignment
+
+## Process
+
+Started troubleshooting by testing local system settings, game files, router configuration, and port-related assumptions. Gradually eliminated local causes through structured testing. Extended diagnosis to ISP-level networking after confirming no issues on the home network. Identified CGNAT as the limiting factor preventing stable server connectivity. Contacted ISP and requested a change from CGNAT to a static public IP. Verified successful resolution after network update restored full server access.
+
+## Skills Learned
+
+* Layered network troubleshooting (OSI-style thinking)
+* Root cause analysis
+* ISP escalation and communication
+* NAT / CGNAT understanding
+* Connectivity diagnostics
+* Systematic elimination process
+* Online service troubleshooting
+* Networking fundamentals in real-world scenarios
