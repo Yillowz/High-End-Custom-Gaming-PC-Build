@@ -1,0 +1,26 @@
+## Overview
+
+Implemented secure remote server access by setting up SSH key-based authentication with added passphrase protection to improve security during server configuration and management.
+
+## Components
+
+Access Method      | SSH Key Authentication
+Security Layer     | Passphrase-Protected Key
+Protocol           | OpenSSH
+Environment        | Remote Server Setup
+User Access        | Terminal-Based Remote Login
+
+## Process
+
+Generated and configured SSH key pairs for secure authentication to a remote server. Added a passphrase to the private key to enhance security in case of key exposure. Installed the public key on the server and disabled or avoided password-based login during setup. Used SSH for secure remote administration while configuring and managing server services. Verified successful authentication and stable remote access after configuration.
+
+## Skills Learned
+
+* SSH key authentication setup
+* Public/private key cryptography basics
+* Server security hardening
+* Secure remote administration
+* Passphrase protection practices
+* OpenSSH configuration
+* Linux server access fundamentals
+* Security-first workflow design
