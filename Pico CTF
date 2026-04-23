@@ -1,0 +1,25 @@
+Overview
+
+Completed beginner cybersecurity challenge labs to build foundational knowledge in security concepts, problem solving, and hands-on technical investigation through guided capture-the-flag exercises.
+
+Components
+
+Platform | picoCTF
+Environment | Web-Based Labs
+Tools Used | Browser, Terminal, Basic Utilities
+Topics | Linux, Web, Crypto, Forensics
+Goal | Capture Flags Through Challenges
+
+Process
+
+Worked through beginner picoCTF challenges covering multiple security categories. Used command-line tools, web inspection methods, encoding/decoding techniques, and logical problem solving to identify flags. Practiced reading challenge prompts, researching unfamiliar concepts, and applying step-by-step troubleshooting methods to complete tasks.
+
+Skills Learned
+Cybersecurity fundamentals
+Linux command line usage
+Basic web security concepts
+Encoding and decoding methods
+Introductory cryptography concepts
+File analysis basics
+Research and problem solving
+Persistence under technical challenges
