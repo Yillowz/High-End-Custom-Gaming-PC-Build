@@ -1,14 +1,26 @@
-Highlights
+Components:
+Processor      |  AMD Ryzen 7 9800X3D
+Motherboard    |  ASUS ROG STRIX X870E-H GAMING WIFI7
+Memory         |  G.Skill DDR5 SDRAM 32G
+Storage        |  WD_BLACK SN7100 2TB
+Graphics Card  |  NVIDIA GeForce RTX 5080
+Power Supply   |  MSI MPG 1000W 80+ Gold
+Case           |  Phanteks Evolv X2
+Cpu Cooler     |  TRYX Panorama SE 360 ARGB 360mm AIO
 
-DDR5 memory system
-NVMe M.2 storage
-High-end GPU and CPU selection
-AIO liquid cooling system
-1000W power supply planning
-Full cable management and airflow optimization
+Process
+Researched component compatibility across motherboard, cooling,
+power, and case dimensions. Planned airflow layout and power
+requirements before assembly. Completed full hardware installation,
+cable management, cooling setup, BIOS startup checks, driver installation,
+and system stress testing to confirm stability and temperatures.
 
-Skills
-
+Skills Learned:
 Hardware compatibility planning
-Thermal/power design
-System assembly & BIOS validation
+PC assembly best practices
+Cable management
+Thermal and airflow optimization
+BIOS / firmware setup
+Driver installation
+Stability testing and troubleshooting
+Upgrade path planning
