@@ -1,0 +1,27 @@
+Overview
+
+Built and organized a rack-based homelab environment focused on clean infrastructure, power protection, cable management, expandability, and reliable hardware deployment.
+
+Components
+
+Power Backup | UPS
+Rack Hardware | Blank Panels
+Cabling | Keystone Jacks
+Storage | Rack Shelves
+Networking | Smart Switch
+Systems | 2 Chassis Installed
+Accessory | Raspberry Pi Case
+
+Process
+
+Installed and organized rack hardware to create a clean and functional homelab setup. Added a UPS for backup power and surge protection. Mounted shelves and chassis systems for equipment placement. Installed blank panels to improve airflow and rack appearance. Added keystone jacks for structured cable routing and easier network management. Integrated the smart switch for centralized connectivity and placed the Raspberry Pi into a protective case for long-term use. Verified cable routing, airflow, and overall equipment accessibility.
+
+Skills Learned
+Rack infrastructure planning
+Power protection setup
+Cable management
+Structured cabling basics
+Hardware mounting and organization
+Airflow awareness
+Network equipment integration
+Homelab scalability planning
